@@ -1,10 +1,41 @@
 body{
 	font-family: Verdana, Geneva, sans-serif;
 	font-size: 12px
-	
-	line-height: 2em;
+}
+a{
+	text-decoration:none;
+	color:darkblue;
 }
 
-.box-1{
-	background-color: dimgray;
+a:hover{
+	color:crimson;
 }
+a{
+	align-items: center;
+}
+
+.container{
+	width: 80%;
+	margin:auto;
+	
+	padding: 20px;
+	border: 5px black solid;
+	border-radius:15px;
+		
+}
+
+.container h1{
+	font-style: italic;
+	text-decoration:underline;
+	text-align:center;
+}
+
+.categories ul{ 
+	text-align:center;
+	list-style:none;
+}
+
+
+
+	
+
