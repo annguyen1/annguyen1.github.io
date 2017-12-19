@@ -33,6 +33,7 @@ a:hover{
 .categories ul{ 
 	text-align:center;
 	list-style:none;
+	margin: auto
 }
 
 ul li {
